@@ -1,5 +1,7 @@
 *About Me*
 
 *Hello! My name is Brent Huttenberger. I am currently a Mechanical Engineering student starting my 2nd year at UNC Charlotte. I am a returning student after earning my Bachelors Degree in Accounting in 2014 and following that I had a nearly decade-long career in Real Estate Appraisals. It was a difficult decision to make to go back to school but one that I am proud to be working towards.* 
+
 *I decided on mechanical engineering because I enjoy figuring out how things work and often think of ways to improve their functionality. I intend to gain more skills to expand on my creativity with a better understanding of how to execute the idea, to the design, to the production. I know that mechanical engineering will be a good fit for me as I know that I take pride in my professional work and I enjoy problem solving.* 
+
 *What does it mean to defend an engineering decision? This is the ability to articulate the reasoning of why you decided to solve the problem posed to you the way you did. It is paramount that these decisions do not cause harm or injury and are safe as they can possibly be. As an engineer, you have a great responsibility to make sure that your designs are mistake free and can be defended mathematically or in a quantifiable way. I have practiced this as I was working as a Real Estate Appraiser, if someone has a question on a decision or needs justification on why your report was completed. These reasons have to follow logic, industry standards, and ethics.*  
