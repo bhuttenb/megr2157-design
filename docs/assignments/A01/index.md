@@ -18,12 +18,19 @@ Thanh Tran- https://thanhvtran.com/
 Thanh's portfolio has multiple access points to navigate the site within a minute. He has a menu dropdown in the top right portion of the page and hyper links at the bottom the direct you to additional pages. The projects do not include any technical drawings of projects just summaries of the skills learned and development of skills. The ability to reproduce designs from the information provided would not give enough information to reproduce or justification of reasoning. The language used in the descriptions is mostly statements of contribution to each of the projects featured on the site.
 
 Part B:
+
 ![Nail clipper image 3](nail3.jpg)
-The product that I choose is nail clippers (US20070067995A1). The primary function is to cut finger nails using leverage and a sharpened edge. 
+
+The product that I choose is nail clippers (US20070067995A1) invented by Hector Alfaro. The primary function is to cut finger nails using leverage and a sharpened edge. 
+
 ![Nail clipper](nail1.jpg)
-This nail clipper has 3 primary parts which include the jaws, the lever, and the pin. This operates on a pin track to guide the jaws as pressure is applied to lever bar which features a slight bend so when pressure is applied the sharpened edge of the jaws close to the lower jaw all guided along the pin that holds all three parts in position. The bottom jaw is connected to the bottom side of the pin and the lever bar is connected at the top of the pin. The lever bar has a bend towards the end at the pin so as pressure is applied the space between the upper and lower jaws close in order to cut the intended nail.  
+
+This nail clipper has 3 primary parts which include the jaws, the lever, and the pin. This operates on a pin track to guide the jaws as pressure is applied to lever bar which features a slight bend so when pressure is applied the sharpened edge of the jaws close to the lower jaw all guided along the pin that holds all three parts in position. The bottom jaw is connected to the bottom side of the pin and the lever bar is connected at the top of the pin. The lever bar has a bend towards the end at the pin so as pressure is applied the space between the upper and lower jaws close in order to cut the intended nail. This particular design claims that it helps reduce the likelihood of cutting the nail too close or cutting a finger accidentally. This is attempted by only having the upper jaw with a sharp edge and the lower jaw flat. The upper jaw features an indentation for the tip of your finger to limit over cutting the nail. 
+
 ![Nail clipper image 2](nail2.jpg)
+
 Other solutions for nail trimming would include nail scissors and nail files.
 
 ## Decide
 
+Deciding between the two alternatives I would choose the nail file over the nail scissors. The nail scissors may be able to complete the function more quickly than a nail file but the intention of this nail file was to improve safety. I believe that the nail file would provide a safer experience for the user. 
