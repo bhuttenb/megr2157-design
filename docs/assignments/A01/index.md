@@ -18,7 +18,10 @@ Thanh Tran- https://thanhvtran.com/
 Thanh's portfolio has multiple access points to navigate the site within a minute. He has a menu dropdown in the top right portion of the page and hyper links at the bottom the direct you to additional pages. The projects do not include any technical drawings of projects just summaries of the skills learned and development of skills. The ability to reproduce designs from the information provided would not give enough information to reproduce or justification of reasoning. The language used in the descriptions is mostly statements of contribution to each of the projects featured on the site.
 
 Part B:
-The product that I choose is nail clippers (US20070067995A1)
+The product that I choose is nail clippers (US20070067995A1).
+![Nail clipper](nail1.jpg)
+![Nail clipper image 2](nail2.jpg)
+
 
 ## Decide
 
