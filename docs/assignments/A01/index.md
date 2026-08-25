@@ -1,4 +1,4 @@
-# A1 – [Building a professional Portfolio]
+# A1
 
 ## Objective
 Research Engineering portfolios and assess them for the ease of navigability, contains sufficient  information about their designs, evidence of reasoning for the designs, and use of professional language.
@@ -33,4 +33,6 @@ Other solutions for nail trimming would include nail scissors and nail files.
 
 ## Decide
 
-Deciding between the two alternatives I would choose the nail file over the nail scissors. The nail scissors may be able to complete the function more quickly than a nail file but the intention of this nail file was to improve safety. I believe that the nail file would provide a safer experience for the user. Nail clippers are also typically intended to be used by someone on their own hands and nail scissors can be difficult to cut accurately especially when being used by someone's non donminent hand.  
+Deciding between the two alternatives I would choose the nail file over the nail scissors. The nail scissors may be able to complete the function more quickly than a nail file but the intention of this nail file was to improve safety. I believe that the nail file would provide a safer experience for the user. Nail clippers are also typically intended to be used by someone on their own hands and nail scissors can be difficult to cut accurately especially when being used by someone's non-dominant hand.  
+
+This assignment took ~4 hours to complete. 
