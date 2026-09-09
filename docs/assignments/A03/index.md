@@ -1,7 +1,7 @@
-# A3 – [Topic]
+# A3 – Parametric and FEA
 
-## Objective
-
+####Part 1:
+###Parametric design details:
 
 ## Analyze
 
