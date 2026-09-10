@@ -30,7 +30,9 @@ Generating a von Mises Stress map. The lowest factor of safety is 35.832.
 
 <img width="1920" height="1020" alt="A3 CAD 8" src="https://github.com/user-attachments/assets/7e98e922-ed57-4339-8982-e6036ad63367" />
 
+The hand calculations and what Solidworks derived were the same.
 
+Since this is a thin bar that is fixed at one end and a simple tension force on the other I felt confident that the results would agree with my hand calculations. 
 
-
+##
 
