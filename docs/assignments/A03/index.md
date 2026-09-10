@@ -34,5 +34,21 @@ The hand calculations and what Solidworks derived were the same.
 
 Since this is a thin bar that is fixed at one end and a simple tension force on the other I felt confident that the results would agree with my hand calculations. 
 
-##
+I would always want to have a calculation of my own beyond the calculation by the CAD software. I would compare the calculation to make sure that they agree and if not find the issue. This is important to have the accountability of your work to ensure safety and quality of your design.
+
+This project took ~2.5 hors to complete. Mostly because I haven't used Solidworks before and I needed so time to figure out how to use it.
+
+##2157 Section
+
+I plan to change my width to 0.25in, a thickness of 0.50 in, and length of 12in. The load will be modified to 250lbs. 
+
+My prediction is that the bar will elongate since it is still fixed at one end and in tension on the other. 
+
+<img width="1197" height="770" alt="A3 CAD 10" src="https://github.com/user-attachments/assets/07be9567-bfb3-4678-a167-2476bce021eb" />
+
+<img width="1168" height="800" alt="A3 CAD 11" src="https://github.com/user-attachments/assets/2f66ce85-aeaf-4000-a545-64e40d3bd5ca" />
+
+
+
+
 
