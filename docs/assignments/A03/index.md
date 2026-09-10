@@ -7,7 +7,7 @@ Starting out I evaluated the givens in the question to set up the variables and 
 
 ###Parametric design details:
 
-## Analyze
+https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A03/A3%20CAD%201.png
 
 
 ## Decide
