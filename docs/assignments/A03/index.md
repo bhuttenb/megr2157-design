@@ -16,7 +16,7 @@ Then it gets extruded to the proper length.
 
 *Once this was finished I added global variables for the Rod Width of 2 inches and a Rod length of 765 inches.*
 
-
+<img width="1011" height="494" alt="A3 CAD 3" src="https://github.com/user-attachments/assets/66444dd7-222e-4c57-af0d-99c422e26aac" />
 
 
 
