@@ -22,9 +22,15 @@ Then it gets extruded to the proper length.
 
 <img width="1920" height="1020" alt="A3 CAD 4" src="https://github.com/user-attachments/assets/617db1de-1e88-41e7-9cb1-33542ad8dc3d" />
 
+Generating the deflection map.
 
-## Decide
+<img width="1920" height="1020" alt="A3 CAD 7" src="https://github.com/user-attachments/assets/b09883a4-1617-4df2-9d12-78e30f6a93a6" />
+
+Generating a von Mises Stress map. The lowest factor of safety is 35.832.
+
+<img width="1920" height="1020" alt="A3 CAD 8" src="https://github.com/user-attachments/assets/7e98e922-ed57-4339-8982-e6036ad63367" />
 
 
-## Communicate
+
+
 
