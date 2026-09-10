@@ -18,7 +18,9 @@ Then it gets extruded to the proper length.
 
 <img width="1011" height="494" alt="A3 CAD 3" src="https://github.com/user-attachments/assets/66444dd7-222e-4c57-af0d-99c422e26aac" />
 
+*I continued to add global variables and Solid works came to the same elongation of the bar as in my calculations.*
 
+<img width="1920" height="1020" alt="A3 CAD 4" src="https://github.com/user-attachments/assets/617db1de-1e88-41e7-9cb1-33542ad8dc3d" />
 
 
 ## Decide
