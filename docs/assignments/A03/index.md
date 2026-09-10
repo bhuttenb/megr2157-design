@@ -1,11 +1,11 @@
 # A3 – Parametric and FEA
 
-####*Part 1:*
+#### *Part 1:*
 *Starting out I evaluated the givens in the question to set up the variables and the equation. The force I chose to use is 400 lbs, the Young's modulus for Aluminum is given as a range in the instructions so I decided to use 8.5 x 10^6. I originally chose an area of 100 in but decided to scale it back to 4 in^2.*
 
 <img width="898" height="800" alt="IMG_1884" src="https://github.com/user-attachments/assets/0c1ffb9f-f65b-46f7-afca-47a63494852f" />
 
-###Parametric design details:
+### Parametric design details:
 
 *Next is to sketch out the end of the rod with dimensions that match my calculations.*
 <img width="1920" height="1020" alt="A3 CAD 1" src="https://github.com/user-attachments/assets/66518643-2dfe-4901-8e14-3dfc1acbac4e" />
@@ -38,7 +38,7 @@ I would always want to have a calculation of my own beyond the calculation by th
 
 This project took ~2.5 hors to complete. Mostly because I haven't used Solidworks before and I needed so time to figure out how to use it.
 
-##2157 Section
+## 2157 Section
 
 I plan to change my width to 0.25in, a thickness of 0.50 in, and length of 12in. The load will be modified to 250lbs. 
 
@@ -48,6 +48,9 @@ My prediction is that the bar will elongate since it is still fixed at one end a
 
 <img width="1168" height="800" alt="A3 CAD 11" src="https://github.com/user-attachments/assets/2f66ce85-aeaf-4000-a545-64e40d3bd5ca" />
 
+CAD File for bar
+
+"C:\Users\bhutt\OneDrive\Documents\A3 Bar.SLDPRT"
 
 
 
