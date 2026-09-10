@@ -50,7 +50,7 @@ My prediction is that the bar will elongate since it is still fixed at one end a
 
 CAD File for bar
 
-"C:\Users\bhutt\OneDrive\Documents\A3 Bar.SLDPRT"
+["C:\Users\bhutt\OneDrive\Documents\A3 Bar.SLDPRT"]
 
 
 
