@@ -48,9 +48,7 @@ My prediction is that the bar will elongate since it is still fixed at one end a
 
 <img width="1168" height="800" alt="A3 CAD 11" src="https://github.com/user-attachments/assets/2f66ce85-aeaf-4000-a545-64e40d3bd5ca" />
 
-CAD File for bar
-
-["C:\Users\bhutt\OneDrive\Documents\A3 Bar.SLDPRT"]
+[Link to CAD file](
 
 
 
