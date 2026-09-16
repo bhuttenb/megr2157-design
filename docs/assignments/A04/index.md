@@ -16,7 +16,9 @@ We currently do not know the length, width, or thickness of the cantilever.
 ## Design Feature 1: Cantilever
 ### FBD 1
 <img width="2381" height="1889" alt="image" src="https://github.com/user-attachments/assets/489ada55-a023-41e4-8ddb-17cefbebf4a7" />
+
 ### FBD 2
+
 <img width="2308" height="1848" alt="image" src="https://github.com/user-attachments/assets/69de380c-eb2f-4ed7-956c-2ea08b0f3a84" />
 
 ## Design Feature 2:
