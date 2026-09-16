@@ -23,6 +23,15 @@ I am going to choose a cantilever length of 36mm.
 
 <img width="2308" height="1848" alt="image" src="https://github.com/user-attachments/assets/69de380c-eb2f-4ed7-956c-2ea08b0f3a84" />
 
+#### Determining dimensions of the mount
+
+<img width="2278" height="2131" alt="image" src="https://github.com/user-attachments/assets/70e56a0d-f90f-4063-9559-9be5a2c13a17" />
+
+<img width="2115" height="2213" alt="image" src="https://github.com/user-attachments/assets/d7b20d28-0979-496b-90c1-bc62c66fd7b0" />
+
+
+
+
 ## Design Feature 2:
 ## Hand sketch
 
