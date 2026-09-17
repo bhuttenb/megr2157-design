@@ -34,8 +34,16 @@ The assumption made is that the fixed wall can support the bolts that will be us
 
 #### Determining strength and deflection
 
+<img width="1744" height="2065" alt="image" src="https://github.com/user-attachments/assets/3e9849c0-2d3a-431d-81cc-d2fff42fa1fe" />
+
+<img width="1744" height="2065" alt="image" src="https://github.com/user-attachments/assets/87d810be-1024-4fa7-8bf8-b79b246175fd" />
 
 ## Hand sketch
+
+<img width="2674" height="2059" alt="image" src="https://github.com/user-attachments/assets/aae7a84e-35a6-4329-9c99-4df87570af93" />
+
+
+<img width="2673" height="2067" alt="image" src="https://github.com/user-attachments/assets/d4077660-c55a-4085-9b46-bcd19c2625b3" />
 
 ## CAD Model
 
