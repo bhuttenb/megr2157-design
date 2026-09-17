@@ -46,5 +46,6 @@ The assumption made is that the fixed wall can support the bolts that will be us
 <img width="2673" height="2067" alt="image" src="https://github.com/user-attachments/assets/d4077660-c55a-4085-9b46-bcd19c2625b3" />
 
 ## CAD Model
+https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A04/A4%20motor%20mount.SLDPRT
 
 
