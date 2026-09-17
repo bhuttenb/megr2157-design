@@ -48,11 +48,3 @@ The assumption made is that the fixed wall can support the bolts that will be us
 ## CAD Model
 
 
-## Analyze
-
-
-## Decide
-
-
-## Communicate
-
