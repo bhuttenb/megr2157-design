@@ -15,4 +15,4 @@ The requirements state that:
 
 
 
-color: var(--primary color: green)
+--color: var(--primary color: green)
