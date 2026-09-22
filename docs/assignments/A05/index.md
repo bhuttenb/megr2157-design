@@ -13,6 +13,8 @@ The requirements state that:
 
 -"c" is where the accuracy is paramount with minimal play is expected. I plan to use a RC4 Close running fit to accomplish this requirement.
 
+I used the Standard Running and Sliding Fits chart to determine the allowances for the opening for the T 
+
 <img width="1928" height="3046" alt="IMG_1905" src="https://github.com/user-attachments/assets/fc9b54d6-d0f6-432a-8c92-425f299c6a77" />
 
 <img width="2216" height="2716" alt="IMG_1906" src="https://github.com/user-attachments/assets/66b2097e-f99e-42cc-a520-b107970426ec" />
