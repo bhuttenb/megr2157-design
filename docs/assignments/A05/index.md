@@ -12,7 +12,9 @@ The requirements state that:
 
 -"c" is where the accuracy is paramount with minimal play is expected. I plan to use a RC4 Close running fit to accomplish this requirement.
 
+For material, I choose to use Steel (ASTM A36) because it is features yield strength of 36,000 psi (not as much as the 6061-T6 or Ti-6Al-V4) which will be strong enough for the bracket propose and it is easier to manufacture than the other 2 alloys which will make this design less expensive to manufacture.
 
 
 
---color: var(--primary color: green)
+
+
