@@ -43,6 +43,12 @@ The bracket is to be designed to a safety factor of 4. Next I plan to do the cal
 
 <img width="2208" height="1739" alt="IMG_1916" src="https://github.com/user-attachments/assets/a96380d3-ffe8-45ca-a4a0-2a1e9db47efb" />
 
+## Multiview drawings
+
+<img width="1784" height="2757" alt="image" src="https://github.com/user-attachments/assets/929449bd-5a27-433b-9814-18b5e293ad51" />
+
+
+
 
 
 
