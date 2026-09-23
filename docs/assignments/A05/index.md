@@ -5,6 +5,10 @@
 We have been tasked to design a bracket to fit the T brace as seen in the photo below.
 <img width="323" height="238" alt="image" src="https://github.com/user-attachments/assets/843aa0ca-faba-47d9-bc1c-7dc70d064b14" />
 
+It is meant to be able hold a strap that is 0.75" 
+<img width="800" height="726" alt="image" src="https://github.com/user-attachments/assets/c8895bba-d201-4b6f-8adc-93ba0b71e93c" />
+
+
 The requirements state that:
 
 -"a" is intended feature a fitment that does not require specific accuracy, therefore, I plan to design this section with a RC7 Free Running Fit. 
@@ -46,6 +50,17 @@ The bracket is to be designed to a safety factor of 4. Next I plan to do the cal
 ## Multiview drawings
 
 <img width="1784" height="2757" alt="image" src="https://github.com/user-attachments/assets/929449bd-5a27-433b-9814-18b5e293ad51" />
+
+## Lessons Learned
+
+For this assignment I had to back track many times in order to make the part a more reasonable size. By choosing the weakest of the 3 alloy options the dimensions are on the larger size than what I would like them to be. I made this error originally on Feature A and then I had to go back from Feature D to Feature C to increase the base to make the other dimensions thinner. I believe that if I were to do this again I would probably use a stronger material. This part in reality is most likely quiet heavy so choosing the Aluminum or Titanium would help shed unnecessary weight. Because we are not sure if these properties will effect the final product it was not of concern when developing the dimension. 
+
+# MEGR 2157
+
+Design a linkage plate that would connect to Feature A. The hole that connects the link is to be a 1" diameter shaft. 
+
+<img width="2599" height="2619" alt="image" src="https://github.com/user-attachments/assets/74bbc007-772d-49e9-9d51-cecafda57990" />
+
 
 
 
