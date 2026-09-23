@@ -19,12 +19,18 @@ I used the Standard Running and Sliding Fits chart to determine the allowances f
 
 <img width="2216" height="2716" alt="IMG_1906" src="https://github.com/user-attachments/assets/66b2097e-f99e-42cc-a520-b107970426ec" />
 
-
-
-
 For material, I choose to use Steel (ASTM A36) because it is features yield strength of 36,000 psi (not as much as the 6061-T6 or Ti-6Al-V4) which will be strong enough for the bracket propose and it is easier to manufacture than the other 2 alloys which will make this design less expensive to manufacture.
 
-The bracket is to be designed to a safety factor of 4. 
+The bracket is to be designed to a safety factor of 4. Next I plan to do the calculations for each of the features of the bracket. 
+
+<img width="2064" height="2672" alt="IMG_1908" src="https://github.com/user-attachments/assets/eb22d20a-a4c9-406c-adda-8511c1056318" />
+
+<img width="2193" height="2815" alt="IMG_1909" src="https://github.com/user-attachments/assets/d1eaf2a8-5613-4bcc-b046-12a0cbe0a1fa" />
+
+
+
+
+
 
 
 
