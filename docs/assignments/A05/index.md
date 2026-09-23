@@ -23,9 +23,28 @@ For material, I choose to use Steel (ASTM A36) because it is features yield stre
 
 The bracket is to be designed to a safety factor of 4. Next I plan to do the calculations for each of the features of the bracket. 
 
-<img width="2064" height="2672" alt="IMG_1908" src="https://github.com/user-attachments/assets/eb22d20a-a4c9-406c-adda-8511c1056318" />
+## Feature A
 
-<img width="2193" height="2815" alt="IMG_1909" src="https://github.com/user-attachments/assets/d1eaf2a8-5613-4bcc-b046-12a0cbe0a1fa" />
+<img width="2321" height="3037" alt="IMG_1912" src="https://github.com/user-attachments/assets/552d0635-3e54-47dd-bbca-097a21ba233e" />
+
+## Feature B
+
+<img width="2358" height="2452" alt="IMG_1913" src="https://github.com/user-attachments/assets/06704a0e-89d6-408e-8650-2d4ae4b182b3" />
+
+## Feature C
+
+<img width="2071" height="2389" alt="IMG_1914" src="https://github.com/user-attachments/assets/e598d517-0fd5-4d94-bd2b-12475646ee1b" />
+
+## Feature D
+
+<img width="2493" height="2526" alt="IMG_1915" src="https://github.com/user-attachments/assets/ba8fae92-0f4b-40bd-ae3d-f31aa8016254" />
+
+## Feature E 
+
+<img width="2208" height="1739" alt="IMG_1916" src="https://github.com/user-attachments/assets/a96380d3-ffe8-45ca-a4a0-2a1e9db47efb" />
+
+
+
 
 
 
