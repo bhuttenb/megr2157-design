@@ -27,6 +27,10 @@ https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A06/A6%20
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/def694ff-706d-4762-9beb-9177c8ccd74a" />
 
+### T Beam Bracket CAD File
+https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A06/A6%202157%20part.SLDPRT
+
+
 
 
 
