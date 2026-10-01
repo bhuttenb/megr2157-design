@@ -21,5 +21,14 @@ https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A06/A6%20
 
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/4debc72b-475f-41cf-94ae-345299fa8cdc" />
 
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/b098a422-8157-4dce-90d0-8eeb1cef8bc1" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/3cfe2f68-1121-4b96-9eeb-a245cabecde1" />
+
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/def694ff-706d-4762-9beb-9177c8ccd74a" />
+
+
+
+
 
 
