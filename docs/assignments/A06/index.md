@@ -11,5 +11,8 @@
 ## CAD PDF
 https://github.com/bhuttenb/megr2157-design/blob/main/docs/assignments/A06/A6%20Bracket.SLDPRT
 
+##  Drawing
+
+<img width="1920" height="1020" alt="Screenshot 2026-10-01 070629" src="https://github.com/user-attachments/assets/ac623300-ccf6-43eb-b5cc-4bc9c728412b" />
 
 
